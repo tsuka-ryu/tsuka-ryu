@@ -18,3 +18,5 @@
     <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=sushin-ya&count_private=true&show_icons=true&show_icons=true&theme=synthwave&layout=compact" />
   </a>
 </p>
+
+[[![trophy](https://github-profile-trophy.vercel.app/?username=sushin-ya&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
