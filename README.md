@@ -9,3 +9,5 @@
     <img height="20" src="https://img.shields.io/github/followers/sushin-ya?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushin-ya&count_private=true&show_icons=true&show_icons=true&theme=synthwave)](https://github.com/sushin-ya/github-readme-stats)
