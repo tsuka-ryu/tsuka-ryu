@@ -19,4 +19,4 @@
   </a>
 </p>
 
-[[![trophy](https://github-profile-trophy.vercel.app/?username=sushin-ya&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
