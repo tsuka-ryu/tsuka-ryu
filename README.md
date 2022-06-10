@@ -10,9 +10,11 @@
   </a>
 </p>
 
-<a href="https://github.com/sushin-ya/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushin-ya&theme=synthwave&layout=compact" />
-</a>
-<a href="https://github.com/sushin-ya/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushin-ya&count_private=true&show_icons=true&show_icons=true&theme=synthwave&layout=compact" />
-</a>
+<p align="left">
+  <a href="https://github.com/sushin-ya/github-readme-stats">
+    <img height="150px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushin-ya&theme=synthwave&layout=compact" />
+  </a>
+  <a href="https://github.com/sushin-ya/github-readme-stats">
+    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=sushin-ya&count_private=true&show_icons=true&show_icons=true&theme=synthwave&layout=compact" />
+  </a>
+</p>
