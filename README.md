@@ -1,1 +1,1 @@
-## 👋 Hi! I'm sushin-ya :sushi: :cat2:
+👋 Hi! I'm sushin-ya :sushi: :cat2:
