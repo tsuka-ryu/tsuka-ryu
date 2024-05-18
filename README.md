@@ -1,4 +1,4 @@
-👋 Hi! I'm sushin-ya :sushi: :cat2:
+👋 Hi! I'm tsuk-asan
 
 ![](https://raw.githubusercontent.com/sushin-ya/sushin-ya/main/profile-summary-card-output/github_dark/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/sushin-ya/sushin-ya/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
