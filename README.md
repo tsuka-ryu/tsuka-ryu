@@ -1,7 +1,7 @@
 # Hi there, I'm tsuka-ryu 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+Expert;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Experiences" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
