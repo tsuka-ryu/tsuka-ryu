@@ -10,6 +10,7 @@ I'm a passionate **Frontend Expert** specializing in modern web technologies. I 
 
 - 🔭 Currently working on cutting-edge React applications
 - 🌱 Always learning and exploring new frontend technologies
+- 🦀 Also interested in Rust and Haskell for their unique approaches to programming
 - 💡 Passionate about clean code, performance optimization, and user experience
 - ⚡ Fun fact: I believe great UX starts with great code
 
