@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Frontend Expert** specializing in modern web technologies. I love crafting beautiful, performant, and user-friendly web applications that make a difference.
+I'm a passionate **Frontend Engineer** specializing in modern web technologies. I love crafting beautiful, performant, and user-friendly web applications that make a difference.
 
 - 🔭 Currently working on cutting-edge React applications
 - 🌱 Always learning and exploring new frontend technologies
