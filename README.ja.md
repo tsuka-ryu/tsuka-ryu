@@ -1,7 +1,7 @@
-# Hi there, I'm tsuka-ryu 👋
+# こんにちは、tsuka-ryu です 👋
 
 <div align="center">
-  <b>English</b> | <a href="README.ja.md">日本語</a>
+  <a href="README.md">English</a> | <b>日本語</b>
 </div>
 
 <div align="center">
@@ -14,45 +14,45 @@
   </a>
 </div>
 
-## 🚀 About Me
+## 🚀 自己紹介
 
-I'm a passionate **Frontend Engineer** specializing in modern web technologies. I love crafting beautiful, performant, and user-friendly web applications that make a difference.
+モダンな Web 技術を専門とする情熱的な**フロントエンドエンジニア**です。美しく、パフォーマンスが高く、使いやすい Web アプリケーションを作るのが大好きです。
 
-- 🌐 Portfolio & blog: [tsuka-ryu.dev](https://tsuka-ryu.dev/)
-- 🔭 Currently working on React / Next.js applications
-- 🌱 Always learning and exploring new technologies
-- 🦀 Also interested in Rust and Haskell for their unique approaches to programming
-- 🧩 Curious about compilers and type systems — I've been building a type-inferring compiler in Rust ([compiler-workshop-rust](https://github.com/tsuka-ryu/compiler-workshop-rust))
-- 💡 Passionate about clean code, performance optimization, and user experience
+- 🌐 ポートフォリオ & ブログ: [tsuka-ryu.dev](https://tsuka-ryu.dev/)
+- 🔭 現在は React / Next.js アプリケーションに取り組んでいます
+- 🌱 常に新しい技術を学び、探求しています
+- 🦀 Rust と Haskell の独自のプログラミングアプローチにも興味があります
+- 🧩 コンパイラや型システムに興味があり、Rust で型推論コンパイラを作っています（[compiler-workshop-rust](https://github.com/tsuka-ryu/compiler-workshop-rust)）
+- 💡 クリーンなコード、パフォーマンス最適化、ユーザー体験に情熱を持っています
 
-## 🛠️ Tech Stack
+## 🛠️ 技術スタック
 
-### Languages
+### 言語
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
-### Frameworks & Libraries
+### フレームワーク & ライブラリ
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Styling
+### スタイリング
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & Platforms
+### ツール & プラットフォーム
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 🔬 What I'm Exploring
+## 🔬 探求中のこと
 
-Beyond frontend, I enjoy digging into the lower layers of how languages and tools work.
+フロントエンドに加えて、言語やツールがどう動いているのか、その低レイヤーを掘り下げるのが好きです。
 
-- 🧩 **[compiler-workshop-rust](https://github.com/tsuka-ryu/compiler-workshop-rust)** — a type-inferring compiler built in Rust (source → tokens → AST → Hindley-Milner type inference → monomorphization → WebAssembly). A hands-on way to learn Rust, type systems, and compiler design.
+- 🧩 **[compiler-workshop-rust](https://github.com/tsuka-ryu/compiler-workshop-rust)** — Rust で実装した型推論コンパイラ（ソース → トークン → AST → Hindley-Milner 型推論 → 単相化 → WebAssembly）。Rust・型システム・コンパイラ設計を手を動かしながら学ぶプロジェクトです。
 
 ## 📊 GitHub Stats
 
