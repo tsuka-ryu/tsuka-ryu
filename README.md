@@ -22,7 +22,6 @@ I'm a passionate **Frontend Engineer** specializing in modern web technologies. 
 - 🔭 Currently working on React / Next.js applications
 - 🌱 Always learning and exploring new technologies
 - 🦀 Also interested in Rust and Haskell for their unique approaches to programming
-- 🧩 Curious about compilers and type systems — I've been building a type-inferring compiler in Rust ([compiler-workshop-rust](https://github.com/tsuka-ryu/compiler-workshop-rust))
 - 💡 Passionate about clean code, performance optimization, and user experience
 
 ## 🛠️ Tech Stack
@@ -48,12 +47,6 @@ I'm a passionate **Frontend Engineer** specializing in modern web technologies. 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-## 🔬 What I'm Exploring
-
-Beyond frontend, I enjoy digging into the lower layers of how languages and tools work.
-
-- 🧩 **[compiler-workshop-rust](https://github.com/tsuka-ryu/compiler-workshop-rust)** — a type-inferring compiler built in Rust (source → tokens → AST → Hindley-Milner type inference → monomorphization → WebAssembly). A hands-on way to learn Rust, type systems, and compiler design.
 
 ## 📊 GitHub Stats
 

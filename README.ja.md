@@ -22,7 +22,6 @@
 - 🔭 現在は React / Next.js アプリケーションに取り組んでいます
 - 🌱 常に新しい技術を学び、探求しています
 - 🦀 Rust と Haskell の独自のプログラミングアプローチにも興味があります
-- 🧩 コンパイラや型システムに興味があり、Rust で型推論コンパイラを作っています（[compiler-workshop-rust](https://github.com/tsuka-ryu/compiler-workshop-rust)）
 - 💡 クリーンなコード、パフォーマンス最適化、ユーザー体験に情熱を持っています
 
 ## 🛠️ 技術スタック
@@ -48,12 +47,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-## 🔬 探求中のこと
-
-フロントエンドに加えて、言語やツールがどう動いているのか、その低レイヤーを掘り下げるのが好きです。
-
-- 🧩 **[compiler-workshop-rust](https://github.com/tsuka-ryu/compiler-workshop-rust)** — Rust で実装した型推論コンパイラ（ソース → トークン → AST → Hindley-Milner 型推論 → 単相化 → WebAssembly）。Rust・型システム・コンパイラ設計を手を動かしながら学ぶプロジェクトです。
 
 ## 📊 GitHub Stats
 
