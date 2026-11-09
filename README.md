@@ -1,7 +1,7 @@
 # tsuka-ryu 👋
 
 Frontend engineer. I mostly work with React, Next.js and TypeScript.
-Also curious about Rust and Haskell.
+Also curious about Rust, Go, Haskell and Lean.
 
 - Website & blog: [tsuka-ryu.dev](https://tsuka-ryu.dev/)
 
