@@ -1,6 +1,4 @@
-# tsuka-ryu
-
-English | [日本語](README.ja.md)
+# tsuka-ryu 👋
 
 Frontend engineer. I mostly work with React, Next.js and TypeScript.
 Also curious about Rust and Haskell.
