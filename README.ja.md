@@ -7,4 +7,7 @@ Rust や Haskell にも興味があります。
 
 - サイト & ブログ: [tsuka-ryu.dev](https://tsuka-ryu.dev/)
 
-**Stack:** TypeScript, React, Next.js, Node.js, Tailwind CSS, Vite, Vercel
+## 登壇
+
+- TSKaigi Sendai 2026 — [OxcのTypeScript parserを眺める](https://speakerdeck.com/teamlab/tskaigi-sendai-oxc-typescript-parser)
+- TSKaigi Hokuriku — [tsc --init の設計思想の変化とその背景を追う](https://speakerdeck.com/teamlab/tskaigi-tsc-init)
